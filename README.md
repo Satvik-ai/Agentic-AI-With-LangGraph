@@ -3,3 +3,5 @@
 - Step 3: activate venv
 - Step 4: Create requirements.txt
 - Step 5: uv add -r requirements.txt
+
+[Reference](https://github.com/krishnaik06/Agentic-LanggraphCrash-course)
